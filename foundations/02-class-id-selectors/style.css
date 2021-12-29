@@ -1,0 +1,20 @@
+.example-class {
+    background-color: rgb(255,192,203);
+    font-family: Verdana, sans-serif ;
+}
+
+#big-id{
+    color: rgb(0,0,255) ;
+    font-size: 36px;
+}
+
+.example-class.cooler{
+    font-size: 24px;
+
+}
+
+#smaller-id{
+    background-color: rgb(144,238,144);
+    font-size: 24px;
+    font-weight: bold;
+}
