@@ -3,16 +3,18 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: space-between;
+  justify-content:space-between;
+  align-items: center;
   padding: 8px;
-  align-items: center ;
 }
+
 
 .logo {
   font-size: 48px;
   font-weight: 900;
   color: tomato;
   background: white;
+  padding: 4px 32px;
 }
 
 ul {
@@ -21,7 +23,7 @@ ul {
   display: flex;
   gap: 8px;
   margin: 0;
- padding: 0;
+  padding: 0;
 }
 
 a {
